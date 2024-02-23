@@ -13,7 +13,6 @@ body {
     background-color: rgb(255, 248, 235);
     border-radius: 16px;
     border: 1px solid rgb(233, 210, 190);
-    box-shadow: 0 8px 16px rgba(96, 57, 10, 0.308);;
 }
 
 h1, h2, p, li, figcaption, .menu-item a {
